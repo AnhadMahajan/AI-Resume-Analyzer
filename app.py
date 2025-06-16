@@ -174,7 +174,7 @@ st.markdown("""
     }
     
     .api-key-section {
-        background: #f8f9fa;
+        background: #grey;
         border: 2px solid #667eea;
         border-radius: 12px;
         padding: 1.5rem;
