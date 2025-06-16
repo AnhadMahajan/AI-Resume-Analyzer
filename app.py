@@ -202,7 +202,7 @@ if 'api_configured' not in st.session_state:
     st.session_state.api_configured = False
 
 st.markdown("""
-<div class="api-key-section">
+<div class="api-key-section" background: #grey;>
     <h3>🔑 Google Gemini API Configuration</h3>
     <p>Enter your Google Gemini API key to enable resume analysis</p>
 </div>
