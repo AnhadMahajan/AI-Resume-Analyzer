@@ -63,7 +63,7 @@ st.markdown("""
     }
     
     .feature-card {
-        background: white;
+        background: grey;
         padding: 1.5rem;
         border-radius: 12px;
         box-shadow: 0 4px 15px rgba(0,0,0,0.1);
@@ -98,7 +98,7 @@ st.markdown("""
     }
     
     .error-card {
-        background: #fed7d7;
+        background: #grey;
         border: 1px solid #fed7d7;
         border-radius: 12px;
         padding: 1rem;
@@ -107,7 +107,7 @@ st.markdown("""
     }
     
     .success-card {
-        background: #c6f6d5;
+        background: #grey;
         border: 1px solid #9ae6b4;
         border-radius: 12px;
         padding: 1rem;
