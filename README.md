@@ -40,7 +40,7 @@ AI-Resume-Analyzer is an intelligent tool that leverages machine learning and na
     python app.py
     ```
 2. Upload your resume and (optionally) a job description.
-3. View the analysis results and recommendations.
+3. View the analysis results and recommendations. 
 
 ## Project Structure
 
